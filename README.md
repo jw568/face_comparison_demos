@@ -1,6 +1,6 @@
 # Some fun face comparison demos I built!
 
-## **Note: you will need to provide your own Configurations.py file with proper AWS keys to run AWS Rekognition.**
+## **Note: you will need to provide your own Configurations.py file with proper AWS keys to run AWS Rekognition. You will also need to download right models for face comparison and detection.**
 
 1. character_comparison_demo.py is a python program that compares the user’s face to celebrity faces from a movie or TV show, then morphs and swaps the user’s face with the face of the celebrity with the highest scoring similarity.
 To run the character comparison demo, go to terminal and use the following command:
